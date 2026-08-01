@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Extrudes the layer into a solid 3D block — depth grows from flat to deep, the side face warms from near-black to orange, and the whole thing swings 45° as it comes.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
